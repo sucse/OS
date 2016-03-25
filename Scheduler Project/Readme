@@ -1,5 +1,4 @@
 Scheduler algorithms simulator
-By : arashTaherK@gmail.com
 
 To run :
 python scheduler.py [XML-file]
